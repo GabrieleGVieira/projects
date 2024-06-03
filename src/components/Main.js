@@ -24,7 +24,7 @@ import {
   BiLogoMongodb,
   BiLogoPostgresql,
 } from "react-icons/bi";
-import MeImg from "./../img/me.jpeg";
+import MeImg from "./../assets/me.jpeg";
 import Projects from "./Projects";
 
 function MainContent() {

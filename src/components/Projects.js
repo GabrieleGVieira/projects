@@ -20,11 +20,11 @@ import { LinkIcon } from "@chakra-ui/icons";
 import { FaPython, FaReact, FaNodeJs, FaGithub } from "react-icons/fa";
 import { BiLogoTypescript, BiLogoMongodb } from "react-icons/bi";
 import { SiExpress, SiNextdotjs, SiChakraui, SiExpo } from "react-icons/si";
-import RBRCaseImg from "./../../public/img/RBR-case.jpeg"
-import ShoppingListImg from "./../../public/img/shopping-list.png";
-import GoogleAuthImg from "./../../public/img/google-auth.webp";
-import BankingSystemhImg from "./../../public/img/banking-system.jpeg";
-import CrudTypescriptImg from "./../../public/img/crud-bg.jpeg";
+import RBRCaseImg from "./../assets/RBR-case.jpeg"
+import ShoppingListImg from "./../assets/shopping-list.png";
+import GoogleAuthImg from "./../assets/google-auth.webp";
+import BankingSystemhImg from "./../assets/banking-system.jpeg";
+import CrudTypescriptImg from "./../assets/crud-bg.jpeg";
 
 function Projects() {
   return (
